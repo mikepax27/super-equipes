@@ -1,6 +1,6 @@
 # X-Men
 
-![Alt text](/imagens/xmen.jpg "vingares")
+![Alt text](/imagens/xmen.jpg "x-men")
 
 **Membros atuais**: Ciclope, Wolverine, Jean Grey, Sincro, Polaris, Solaris e Vampira.
 
